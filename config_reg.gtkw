@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sun Oct  3 23:20:59 2021
+[*]
+[dumpfile] "/home/caro/phy_pcie/reloj.vcd"
+[dumpfile_mtime] "Sun Oct  3 23:20:31 2021"
+[dumpfile_size] 2742
+[savefile] "/home/caro/phy_pcie/config_reg.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-45.572369 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+Testbench_reg.clk_in
+Testbench_reg.clk_out_4f
+Testbench_reg.clk_out_2f
+@29
+Testbench_reg.clk_out_f
+[pattern_trace] 1
+[pattern_trace] 0
